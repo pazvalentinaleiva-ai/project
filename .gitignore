@@ -17,4 +17,27 @@ __pycache__/
 *.env
 environment.yaml~
 
+# Mac system files
+.DS_Store
 
+# VS Code settings
+.vscode/
+
+# Output files and figures
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Data files that should not be tracked
+data/*.csv
+data/*.tsv
+data/*.zip
+
+# Temporary or miscellaneous files
+*.tmp
+*.bak
+*.swp
+
+# Documents that were copied but not needed in Git
+files_to_copy/Documents/*.docx
