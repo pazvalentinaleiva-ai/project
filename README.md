@@ -1,6 +1,6 @@
 # project
 
-This repository contains all files related to my Data Science project. 
+This repository contains all files related to my Data Science project
 
 ## Structure
 
@@ -10,5 +10,3 @@ This repository contains all files related to my Data Science project.
 - `environment.yaml` : Conda environment file to reproduce the computational environment  
 - `files_to_copy/` : original files and documents  
 - `figures/` : generated figures from the analysis
-
-
