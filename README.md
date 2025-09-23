@@ -11,8 +11,4 @@ This repository contains all files related to my Data Science project.
 - `files_to_copy/` : original files and documents  
 - `figures/` : generated figures from the analysis
 
-## Usage
 
-1. Create the environment:
-   ```bash
-   conda env create -f environment.yaml
